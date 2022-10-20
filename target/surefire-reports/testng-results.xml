@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-20T10:34:13 IST" name="Suite" finished-at="2022-10-20T10:35:02 IST" duration-ms="48828">
+    <groups>
+    </groups>
+    <test started-at="2022-10-20T10:34:13 IST" name="Pixel_2" finished-at="2022-10-20T10:35:02 IST" duration-ms="48828">
+      <class name="com.QA.Test.TC002_OpenAnAccountTest">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.QA.Test.TC002_OpenAnAccountTest@15aab8c6]" started-at="2022-10-20T10:34:06 IST" name="beforeSuite" finished-at="2022-10-20T10:34:13 IST" duration-ms="6685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.QA.Test.TC002_OpenAnAccountTest@15aab8c6]" started-at="2022-10-20T10:34:13 IST" name="beforeTest" finished-at="2022-10-20T10:34:33 IST" duration-ms="20195" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[true]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Android]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[emulator-5554]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Pixel_4_API_33]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[11000]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[iOSOnly]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[iOSOnly]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.QA.Test.TC002_OpenAnAccountTest@15aab8c6]" started-at="2022-10-20T10:34:33 IST" name="beforeClass" finished-at="2022-10-20T10:34:40 IST" duration-ms="6578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.QA.Test.TC002_OpenAnAccountTest@15aab8c6]" started-at="2022-10-20T10:34:40 IST" name="beforeMethod" finished-at="2022-10-20T10:34:41 IST" duration-ms="1458" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.QA.Test.TC002_OpenAnAccountTest@15aab8c6]" started-at="2022-10-20T10:34:41 IST" name="beforeMethod" finished-at="2022-10-20T10:34:42 IST" duration-ms="493" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.QA.Test.TC002_OpenAnAccountTest.OpenAnAccount() throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="OpenAnAccount()[pri:1, instance:com.QA.Test.TC002_OpenAnAccountTest@15aab8c6]" started-at="2022-10-20T10:34:42 IST" name="OpenAnAccount" finished-at="2022-10-20T10:34:58 IST" duration-ms="16714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenAnAccount -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.QA.Test.TC002_OpenAnAccountTest@15aab8c6]" started-at="2022-10-20T10:34:58 IST" name="afterMethod" finished-at="2022-10-20T10:34:58 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.QA.Test.TC002_OpenAnAccountTest@15aab8c6]" started-at="2022-10-20T10:34:58 IST" name="afterMethod" finished-at="2022-10-20T10:35:01 IST" duration-ms="2365" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=OpenAnAccount status=SUCCESS method=TC002_OpenAnAccountTest.OpenAnAccount()[pri:1, instance:com.QA.Test.TC002_OpenAnAccountTest@15aab8c6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.QA.Test.TC002_OpenAnAccountTest@15aab8c6]" started-at="2022-10-20T10:35:01 IST" name="afterClass" finished-at="2022-10-20T10:35:01 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.QA.Test.TC002_OpenAnAccountTest@15aab8c6]" started-at="2022-10-20T10:35:01 IST" name="afterTest" finished-at="2022-10-20T10:35:02 IST" duration-ms="931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.QA.Test.TC002_OpenAnAccountTest@15aab8c6]" started-at="2022-10-20T10:35:03 IST" name="afterSuite" finished-at="2022-10-20T10:35:03 IST" duration-ms="62" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.QA.Test.TC002_OpenAnAccountTest -->
+    </test> <!-- Pixel_2 -->
+  </suite> <!-- Suite -->
+</testng-results>

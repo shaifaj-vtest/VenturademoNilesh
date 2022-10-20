@@ -1,0 +1,3 @@
+com\QA\constants\PageConstant.class
+com\QA\Test\TC002_OpenAnAccountTest.class
+com\QA\Test\TC001_LoginAsClientTest.class

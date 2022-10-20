@@ -1,0 +1,8 @@
+com\QA\dataObjects\LoginDO.class
+com\QA\reports\ExtentReport.class
+com\QA\Base\BaseTest.class
+com\QA\Pages\LoginAsClientPage.class
+com\QA\utlis\TestUtils.class
+com\QA\listeners\TestListener.class
+com\QA\Pages\OpenAnAccountPage.class
+com\QA\utlis\ExcelParserUtil.class
